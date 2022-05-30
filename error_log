@@ -1,0 +1,893 @@
+[29-May-2022 11:33:44 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:33:55 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:34:04 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:34:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:34:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:34:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 11:34:04 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 77
+[29-May-2022 11:34:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:35:30 America/Fortaleza] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'portf764_newflix'@'108.179.193.5' to database 'portf764_newfix' in /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php on line 8
+[29-May-2022 11:35:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:35:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php:36
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/index.php(64): Users->logar('noohalves', 'e250484aee0c737...')
+#1 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 36
+[29-May-2022 11:35:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:35:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:35:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:35:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 11:35:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 77
+[29-May-2022 11:35:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:36:35 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:37:52 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:39:02 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:39:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:39:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:39:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 11:39:02 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 77
+[29-May-2022 11:39:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:39:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:39:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:39:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:39:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 11:39:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 77
+[29-May-2022 11:39:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:42:54 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:42:54 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 43
+[29-May-2022 11:42:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:42:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:42:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:42:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:43:00 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:43:00 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 43
+[29-May-2022 11:43:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:43:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:43:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:43:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:44:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:44:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 11:44:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:44:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:44:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:44:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:44:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:44:36 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 11:44:36 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:44:36 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:44:36 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:44:36 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:46:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 11:46:20 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 11:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 11:48:17 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 6
+[29-May-2022 11:48:17 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 11:48:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:48:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:48:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:48:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 11:48:40 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 11:48:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:48:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:48:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:48:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:48:51 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 11:48:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:48:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:48:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 74
+[29-May-2022 11:48:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:50:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:50:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:50:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:50:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:51:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:51:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:51:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:51:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:53:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:53:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:53:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:53:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:55:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:55:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:55:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:55:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:55:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 11:55:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:55:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:55:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:55:13 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:55:13 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 11:57:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:57:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:57:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:57:25 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:57:25 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 11:57:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:57:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:57:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:57:52 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:57:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 11:59:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:59:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:59:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:59:23 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:59:23 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 11:59:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 11:59:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 11:59:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 11:59:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 11:59:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 12:01:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:01:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:01:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:01:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 12:01:10 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 12:01:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 67
+[29-May-2022 12:01:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 12:01:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:01:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:01:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:01:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 12:01:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 64
+[29-May-2022 12:01:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 4
+[29-May-2022 12:01:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:01:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:01:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:01:53 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 12:01:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 64
+[29-May-2022 12:04:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:04:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:04:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:04:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 64
+[29-May-2022 12:04:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 6
+[29-May-2022 12:05:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 6
+[29-May-2022 12:05:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 6
+[29-May-2022 12:05:52 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 6
+[29-May-2022 12:07:26 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 5
+[29-May-2022 12:07:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 7
+[29-May-2022 12:08:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 6
+[29-May-2022 12:08:41 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 2
+[29-May-2022 12:08:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/users.php:2) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 8
+[29-May-2022 12:09:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 8
+[29-May-2022 12:09:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 5
+[29-May-2022 12:09:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 7
+[29-May-2022 12:09:50 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/conexao.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 8
+[29-May-2022 12:10:41 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 5
+[29-May-2022 12:10:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 7
+[29-May-2022 12:10:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 5
+[29-May-2022 12:10:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 7
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 73
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 76
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 79
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 82
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 86
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 93
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 100
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 107
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 14
+[29-May-2022 12:11:22 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 320
+[29-May-2022 12:11:22 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 12:13:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 70
+[29-May-2022 12:13:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:13:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:13:00 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:14) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 66
+[29-May-2022 12:16:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:16:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:16:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:16:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 12:16:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:16:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:16:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:16:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:16:08 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 75
+[29-May-2022 12:16:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 2
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 73
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 76
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 79
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 82
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 86
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 93
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 100
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 107
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 14
+[29-May-2022 12:16:25 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 320
+[29-May-2022 12:16:25 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 12:16:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:16:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:16:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:16:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 2
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 73
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 76
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 79
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 82
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 86
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 93
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 100
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 107
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 14
+[29-May-2022 12:16:47 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 320
+[29-May-2022 12:16:47 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 12:17:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:17:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:17:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:17:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 2
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 73
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 76
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 79
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 82
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 86
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 93
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 100
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 107
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 14
+[29-May-2022 12:17:50 America/Fortaleza] PHP Notice:  Undefined index: session_token in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 320
+[29-May-2022 12:17:50 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 12:19:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:19:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:19:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:19:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:19:19 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 8
+[29-May-2022 12:20:59 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 12:20:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:20:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:20:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:20:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:21:08 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 12:21:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:21:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:21:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:21:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 12:22:57 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 12:22:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 12:22:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 12:22:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 12:22:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 65
+[29-May-2022 13:02:45 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 13:02:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 13:02:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 13:02:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 13:02:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 64
+[29-May-2022 13:02:55 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 22
+[29-May-2022 13:02:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 71
+[29-May-2022 13:02:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 72
+[29-May-2022 13:02:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 73
+[29-May-2022 13:02:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/index.php:13) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 64
+[29-May-2022 13:03:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 8
+[29-May-2022 13:05:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 8
+[29-May-2022 13:05:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:06:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:06:45 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:06:45 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:07:35 America/Fortaleza] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:07:56 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:07:56 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 6
+[29-May-2022 13:07:56 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 9
+[29-May-2022 13:07:56 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 9
+[29-May-2022 13:08:22 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:08:22 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 3
+[29-May-2022 13:08:22 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 9
+[29-May-2022 13:08:22 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 9
+[29-May-2022 13:10:16 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:10:16 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 4
+[29-May-2022 13:10:16 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 4
+[29-May-2022 13:10:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:10:37 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:10:37 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 8
+[29-May-2022 13:10:37 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 8
+[29-May-2022 13:12:38 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:12:38 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 8
+[29-May-2022 13:12:38 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 8
+[29-May-2022 13:14:28 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:14:28 America/Fortaleza] PHP Notice:  Undefined variable: _SESSION in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 8
+[29-May-2022 13:14:28 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type null in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 8
+[29-May-2022 13:26:17 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:26:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:26:46 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:26:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:26:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:26:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:26:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:944) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:26:46 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:28:10 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:28:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:28:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:28:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:28:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:28:11 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:29:16 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:29:16 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:29:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:29:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:29:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:29:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:29:16 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:29:58 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/movies.php on line 5
+[29-May-2022 13:29:58 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:30:26 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/movies.php on line 5
+[29-May-2022 13:30:26 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:30:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:30:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:30:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:30:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:31:04 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:31:04 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 13:31:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:32:36 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:32:36 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:32:36 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:32:41 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:32:41 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:32:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:32:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:32:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:32:41 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:32:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:33:37 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:33:37 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:33:37 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 106
+[29-May-2022 13:33:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:33:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:33:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:33:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:33:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:33:40 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:33:40 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:33:40 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 106
+[29-May-2022 13:33:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:33:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:33:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:33:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:33:40 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:33:52 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:33:52 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:33:52 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:33:55 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:33:55 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:33:55 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 106
+[29-May-2022 13:33:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:33:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:33:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:33:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:33:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:46:09 America/Fortaleza] PHP Warning:  session_start(): open(/cpanel/sess_20f20deaa67bc69e59fee9e7e0dda345, O_RDWR) failed: No such file or directory (2) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 2
+[29-May-2022 13:46:09 America/Fortaleza] PHP Warning:  session_start(): Failed to read session data: files (path: /cpanel) in /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php on line 2
+[29-May-2022 13:46:09 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:46:09 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php:2) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  session_start(): open(/cpanel/sess_20f20deaa67bc69e59fee9e7e0dda345, O_RDWR) failed: No such file or directory (2) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 5
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  session_start(): Failed to read session data: files (path: /cpanel) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 5
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cookie names must not be empty in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 22
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 23
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 55
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  session_start(): open(/cpanel/sess_20f20deaa67bc69e59fee9e7e0dda345, O_RDWR) failed: No such file or directory (2) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 5
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  session_start(): Failed to read session data: files (path: /cpanel) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 5
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cookie names must not be empty in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 22
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 23
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 55
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  session_start(): open(/cpanel/php/sessions/ea-php74/sess_20f20deaa67bc69e59fee9e7e0dda345, O_RDWR) failed: No such file or directory (2) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 5
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  session_start(): Failed to read session data: files (path: /cpanel/php/sessions/ea-php74) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 5
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  Cookie names must not be empty in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 22
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 23
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 39
+[29-May-2022 13:46:47 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/sair.php:5) in /home1/portf764/newflix.portfoliobruno.com.br/sair.php on line 55
+[29-May-2022 13:47:19 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:47:19 America/Fortaleza] PHP Notice:  Undefined variable: password in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 15
+[29-May-2022 13:47:19 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:48:11 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:48:11 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:48:14 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:48:14 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 106
+[29-May-2022 13:48:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:48:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:48:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:48:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:48:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:48:45 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:48:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:48:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:48:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:48:45 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:48:45 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:49:27 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:49:27 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:49:31 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:49:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:49:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:49:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:49:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:49:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:50:33 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:50:33 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:50:38 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:50:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:50:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:50:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:50:38 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:50:41 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 2
+[29-May-2022 13:50:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:324
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(324): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 324
+[29-May-2022 13:51:28 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:51:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:51:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:51:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:51:32 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:54:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 13:54:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 13:54:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:54:01 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:55:05 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 106
+[29-May-2022 13:55:05 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:55:05 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:55:05 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 159
+[29-May-2022 13:55:05 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:55:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:55:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:55:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:55:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 13:55:21 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 13:55:21 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 13:55:21 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 13:55:21 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:01:19 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:01:30 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:02:20 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 14:02:20 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:02:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 14:02:42 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 6
+[29-May-2022 14:03:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 14:03:01 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 6
+[29-May-2022 14:03:19 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 14:03:19 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:03:28 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 2
+[29-May-2022 14:03:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 14:03:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 14:03:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 14:03:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 159
+[29-May-2022 14:03:28 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:07:06 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:10:59 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 94
+[29-May-2022 14:10:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/users.php:94) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 22
+[29-May-2022 14:12:02 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:12:22 America/Fortaleza] PHP Notice:  session_start(): A session had already been started - ignoring in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 21
+[29-May-2022 14:12:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/users.php:21) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 92
+[29-May-2022 14:12:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/users.php:21) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 93
+[29-May-2022 14:12:22 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/users.php:21) in /home1/portf764/newflix.portfoliobruno.com.br/index.php on line 22
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 74
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 77
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 80
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 83
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 87
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 94
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 101
+[29-May-2022 14:12:58 America/Fortaleza] PHP Notice:  Undefined index: session_status in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 108
+[29-May-2022 14:12:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:13:23 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:13:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 14:13:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 14:13:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 14:13:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 159
+[29-May-2022 14:13:38 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:13:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:13:44 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/movies.php on line 5
+[29-May-2022 14:13:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/movies.php on line 7
+[29-May-2022 14:14:57 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/favoritos.php on line 4
+[29-May-2022 14:14:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/favoritos.php on line 71
+[29-May-2022 14:14:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/header.php on line 5
+[29-May-2022 14:15:49 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/series.php on line 5
+[29-May-2022 14:15:49 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/series.php on line 7
+[29-May-2022 14:16:12 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 723
+[29-May-2022 14:16:30 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portf764/newflix.portfoliobruno.com.br/videoplayerserie.php on line 5
+[29-May-2022 14:16:30 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/videoplayerserie.php on line 8
+[29-May-2022 14:17:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WHERE ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:21:50 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:23:21 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WH' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:24:29 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT id,img,imgcapa,top10,movie,link_trailer,data_env FROM movies WH' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:26:08 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE data_env >= (NOW() - INTERVAL 1 MONTH) UNION SELECT id,img,imgcapa,top10,m' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:27:10 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1221 Incorrect usage of UNION and ORDER BY in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:323
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(323): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 323
+[29-May-2022 14:28:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:31:29 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:31:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:34:00 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:42:42 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:43:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 14:43:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 14:43:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 158
+[29-May-2022 14:43:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 159
+[29-May-2022 14:43:39 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:45:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:45:40 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:45:47 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:47:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 142
+[29-May-2022 14:47:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 143
+[29-May-2022 14:47:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 144
+[29-May-2022 14:47:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 145
+[29-May-2022 14:47:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:50:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:50:34 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 154
+[29-May-2022 14:50:34 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 155
+[29-May-2022 14:50:34 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 156
+[29-May-2022 14:50:34 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php:946) in /home1/portf764/newflix.portfoliobruno.com.br/class/users.php on line 157
+[29-May-2022 14:50:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:53:32 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:53:32 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:53:36 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:53:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:53:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:53:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 14:56:01 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 723
+[29-May-2022 14:58:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home1/portf764/newflix.portfoliobruno.com.br/addf.php:161
+Stack trace:
+#0 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/addf.php on line 161
+[29-May-2022 14:58:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home1/portf764/newflix.portfoliobruno.com.br/addf.php:161
+Stack trace:
+#0 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/addf.php on line 161
+[29-May-2022 14:59:20 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 723
+[29-May-2022 14:59:26 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 15:00:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 15:04:13 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:330
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(330): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 330
+[29-May-2022 15:05:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION SELECT id,top10 FROM movies WHERE data_env >= (NOW() - INTERVAL 1 MONTH)) ' at line 1 in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php:341
+Stack trace:
+#0 /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php(341): PDOStatement->execute()
+#1 /home1/portf764/newflix.portfoliobruno.com.br/AreaPrivada.php(41): MoviesTop10->top10SeriesFilmes()
+#2 {main}
+  thrown in /home1/portf764/newflix.portfoliobruno.com.br/class/moviestop10.php on line 341
+[29-May-2022 15:06:03 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 544
+[29-May-2022 15:06:31 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 544
+[29-May-2022 15:07:23 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 544
+[29-May-2022 15:08:01 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 544
+[29-May-2022 15:09:51 America/Fortaleza] PHP Notice:  Trying to access array offset on value of type bool in /home1/portf764/newflix.portfoliobruno.com.br/class/movies.php on line 544

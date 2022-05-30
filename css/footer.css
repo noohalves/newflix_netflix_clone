@@ -1,0 +1,76 @@
+.member-footer {
+    max-width: 980px;
+    margin: 20px auto 0;
+    padding: 0 4%;
+    color: grey;
+    margin-top: 5%;
+}
+
+
+.member-footer .social-links {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 1em;
+}
+.member-footer .member-footer-link {
+    color: grey;
+    text-decoration: none;
+}
+.member-footer .member-footer-link-wrapper {
+    list-style-type: none;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 50%;
+    -moz-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    margin-bottom: 16px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: flex;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+}
+.member-footer .member-footer-links {
+    font-size: 13px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -moz-box-orient: horizontal;
+    -moz-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -moz-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    margin: 0 0 14px 0;
+    padding: 0;
+}
+
+.member-footer .member-footer-copyright {
+    font-size: 11px;
+    margin-bottom: 15px;
+}
+
+.netflix-sans-font-loaded {
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.netflix-sans-font-loaded {
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}

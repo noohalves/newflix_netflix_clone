@@ -1,0 +1,334 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background-color: rgb(32, 32, 32);
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
+.imglogo{
+    width: 150px;
+    height: 80px;
+    margin-left: 10px;
+    margin-top: 10px;
+    z-index: 4;
+}
+
+.gerencia {
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    position: relative;
+    display: block;
+
+}
+.Painel_admin{
+    text-align: center;
+    color: black;
+    background-color: rgba(255, 255, 255);
+    margin-top: 40px;
+    width: 200px;
+    height: 90px;
+    border-radius: 5px;
+    z-index: 100;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.btn_panel {
+   position: relative;
+  display: inline-flex;
+  width: 150px;
+  height: 45px;
+  perspective: 1000px;
+}
+.btn_panel_a {
+      font-size: 19px;
+      letter-spacing: 1px;
+      transform-style: preserve-3d;
+      transform: translateZ(-25px);
+      transition: transform .25s;
+      font-family: 'Montserrat', sans-serif;
+}
+.btn_panel_a:before,
+.btn_panel_a:after{
+    position: absolute;
+    content: "ENTRAR";
+    height: 45px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.btn_panel_a:before {
+    color: #fff;
+    background: #000;
+    transform: rotateY(0deg) translateZ(25px);
+}
+.btn_panel_a:after{
+    color: #000;
+    transform: rotateX(90deg) translateZ(25px);
+}
+.btn_panel_a:hover{
+    transform: translateZ(-25px) rotateX(-90deg);
+}
+.gerencia h1 {
+    font-size: 60px;
+    position: absolute;
+    top: 150px;
+    left: 38%;
+}
+.gerencia .gerencia-card{
+    position: relative;
+    top: 240px;
+    left: 28%;
+    right: 0;
+    bottom: 0;
+    height: 150px;
+    width: 150px;
+    display: flex;   
+}
+.gerencia .gerencia-card .card{
+    display: block;
+    margin: 20px;
+    position: relative;
+    cursor: pointer;
+}
+.imgcard{
+    width: 180px;
+    height: 180px;
+    border-radius: 5px;
+    position: relative;
+}
+.imgcard:hover{
+    border-width: .5px;
+    border-color: white;
+    border-style: solid;
+}
+#error {
+    width: 80%;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    display: none;
+}
+.btncard {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    top: 600px;
+    left: 45%;
+    position: absolute;
+}
+.btncard:hover {
+    background-color: #00fdd3;
+    color: rgb(255, 255, 255);
+}
+.img_edit {
+    width: 50px;
+    height: 40px;
+    position: absolute;
+    z-index: 1;
+}
+.text_name{
+    position: absolute;
+}
+#user1{
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.container{
+    width:90%;
+    height:100%;
+    background:rgba(0, 0, 0, 0.856);
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+}
+#containerUser1 {
+    display: none;
+}
+#containerUser2 {
+    display: none;
+}
+#containerUser3 {
+    display: none;
+}
+#containerUser4 {
+    display: none;
+}
+#x_icon{
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin: 5px;
+    
+}
+#x_icon:hover{
+    opacity: .8;
+    
+}
+#form_img{
+    display: inline-flex;
+}
+#btn_img{
+    display: inline-flex;
+    background-color: #00fdd300;
+}
+
+#container_img_pos{
+    text-align: center;
+    padding: 20px;
+    margin-top: 5%;
+}
+.containerimg{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    overflow-y: scroll;
+    display: none;
+    z-index: 101;
+}
+.select_img{
+    border-radius:5px;
+    width:100px;
+    height:100px;
+    cursor: pointer;
+    margin: 2px;
+}
+.select_img:hover{
+    border-style: double;
+    border-width: 1px;
+    border-color: red;
+}
+.edit_img{
+    border-radius:5px;
+    width:100px;
+    height:100px;
+    cursor: pointer;
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+}
+#atual{
+    position: absolute;
+    text-align: center;
+    margin-left: -75px;
+    color: red;
+    text-shadow: 0 0 2px #fff;
+}
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+@media (max-width: 1280px) {
+    .imgcard{
+        width: 50px;
+        height: 50px;
+        border-radius: 5px;
+        
+    }
+    .img_edit {
+        width: 25px;
+        height: 20px;
+    }
+    .gerencia .gerencia-card{
+        margin-top: 300px;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        margin: 0;
+        position: absolute;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+    .gerencia .gerencia-card .card{
+        display: block;
+        margin: 2px;
+        margin-left: auto;
+        margin-right: auto
+        
+    }
+    .gerencia h1 {
+        font-size: 30px;
+        position: relative;
+        top: 150px;
+        position: absolute;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+    .btncard {
+        background-color: #ffffff;
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        top: 400px;
+        position: absolute;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+    .imglogo{
+        width: 150px;
+        height: 50px;
+        z-index: 4;
+        position: absolute;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+        margin-top: 30px;
+    }
+}
