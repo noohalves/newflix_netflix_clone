@@ -7,8 +7,8 @@ N√£o esta completo o painel Administrativo, mais em breve irei colocar mais fun√
 Site Demo : https://newflix.portfoliobruno.com.br
 
 APIS {
-  FULLCALENDAR 
-  jQuery
+  FullCalendar,
+  jQuery,
   owl.carousel
-}
+};
 
