@@ -5,3 +5,10 @@ N√£o esta completo o painel Administrativo, mais em breve irei colocar mais fun√
 <img src="http://portfoliobruno.com.br/img/bg.jpg">
 
 Site Demo : https://newflix.portfoliobruno.com.br
+
+APIS {
+  FULLCALENDAR 
+  jQuery
+  owl.carousel
+}
+
